@@ -3,6 +3,8 @@ flutter 文字滚动应用，支持有声播放
 
 ![logo](./logo.png)
 
+[try it](https://www.coolapk.com/apk/266181)
+
 ### Update
 
 - 5/12 文字基本设置 ✅
